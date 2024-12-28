@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a problem encountered with nested routes in React Router DOM v6.  The bug demonstrates an issue where nested routes fail to render, despite appearing to be correctly configured. The solution provides a corrected implementation, illustrating how to properly structure nested routes for successful rendering.
